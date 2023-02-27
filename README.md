@@ -24,7 +24,9 @@
 
 ## About
 
-MySpyBox is a subscription-based SAAS website that allows users to access and use OSINT tools in exchange for credits. The website solves the problem of users needing to pay for individual OSINT tools and subscriptions by providing access to multiple tools for a single subscription price.
+
+> MySpyBox is a subscription-based SAAS website that allows users to access and use OSINT tools in exchange for credits. The website solves the problem of users needing to pay for individual OSINT tools and subscriptions by providing access to multiple tools for a single subscription price.
+
 
 <details>
 <summary>Screenshots</summary>
