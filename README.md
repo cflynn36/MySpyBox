@@ -21,7 +21,6 @@
 
 
 ---
-
 ## About
 
 
@@ -32,8 +31,6 @@
 <summary>Screenshots</summary>
 <br>
 
-> **[?]**
-> Please provide your screenshots here.
 
 |                               Home Page                               |                               Login Page                               |
 | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
@@ -43,29 +40,26 @@
 
 ### Built With
 
-> **[?]**
 > Webflow.
 
 ## Getting Started
 
 ### Prerequisites
 
-> **[?]**
-> What are the project requirements/dependencies?
+> Node.js
+> MongoDB
 
 ### Installation
 
-> **[?]**
 > Clone the repository.
-> Install dependencies with npm.
-> Run 'app.js' with the command 'node app.js'.
-> Run your MongoDB database with 'sudo mongod'.
+> Install dependencies with npm install.
+> Run your MongoDB database with sudo mongod.
+> Run 'node app.js'.
 
 ## Usage
 
-> **[?]**
-> Use as a template for subscription based SAAS websites.
-> 
+> Use MySpyBox as a template for subscription based SAAS websites.
+
 
 ## Roadmap
 
@@ -76,9 +70,6 @@ See the [open issues](https://github.com/cflynn36/MySpyBox/issues) for a list of
 - [Newest Bugs](https://github.com/cflynn36/MySpyBox/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
-
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
 
 Reach out to the maintainer at one of the following places:
 
