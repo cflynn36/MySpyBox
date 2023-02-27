@@ -40,7 +40,7 @@
 
 ### Built With
 
-> Webflow.
+> Webflow
 
 ## Getting Started
 
