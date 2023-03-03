@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/cflynn36/MySpyBox">
     <!-- Please provide path to your logo here -->
-    <img src="images/magnifying_glass_logo-removebg-preview-p-500.png/" alt="Logo" width="100" height="100">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
