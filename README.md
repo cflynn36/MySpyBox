@@ -46,15 +46,15 @@
 
 ### Prerequisites
 
-> Node.js
-> MongoDB
+- > Node.js
+- > MongoDB
 
 ### Installation
 
-> Clone the repository.
-> Install dependencies with npm install.
-> Run your MongoDB database with sudo mongod.
-> Run 'node app.js'.
+- > Clone the repository.
+- > Install dependencies with npm install.
+- > Run your MongoDB database with sudo mongod.
+- > Run 'node app.js'.
 
 ## Usage
 
